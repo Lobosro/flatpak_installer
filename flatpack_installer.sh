@@ -41,6 +41,8 @@ fi
 
 #Copying the .desktop of the flatpack from <flatpak_home>/files/share/applications to /usr/share/applications
 cp $(flatpak info --show-location $package)/files/share/applications/$package.desktop /usr/share/applications/$package.desktop
+
+echo''
 if [[ $LANG = "pt_PT" || $LANG = "pt_PT.UTF-8" || $LANG = "pt_BR" || $LANG = "pt_BR.UTF-8" ]]; then
         echo -e "${BLUE}TERMINADO${NC}"
 else
