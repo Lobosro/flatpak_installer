@@ -15,7 +15,7 @@ This project is using the GPL3 (GNU General Public License 3) that is availble o
 
 ## How to use
 
-1. 'git clone https://github.com/Lobosro/flatpak_installer.git'
-2. 'cd flatpak_installer'
-3. 'sudo chmod -x flatpak_installer.sh'
-4. 'sudo ./flatpak_installer.sh'
+1. `git clone https://github.com/Lobosro/flatpak_installer.git`
+2. `cd flatpak_installer`
+3. `sudo chmod -x flatpak_installer.sh`
+4. `sudo ./flatpak_installer.sh`
