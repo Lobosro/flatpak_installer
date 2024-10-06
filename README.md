@@ -11,7 +11,7 @@ This project is using the GPL3 (GNU General Public License 3) that is availble o
 2. It's simple to use he makes the questions and you respond them and vouilá the flatpak is installed
 
 ## Dependecies of the Flatpak Installer
-- [flatpak](https:/flatpak.org/setup/)
+- [flatpak](https://flatpak.org/setup/)
 
 ## How to use
 
