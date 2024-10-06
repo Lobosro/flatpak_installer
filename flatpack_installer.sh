@@ -6,8 +6,21 @@ clear
 #Colors!!
 YELLOW='\033[1;33m'
 GREEN='\033[0;32m'
-BLUE='\033[0;34'
+BLUE='\033[1;34m'
 NC='\033[0m' #I think that is not a color LOL
+
+#Legal Part
+echo ""
+echo ""
+echo -e "${BLUE}        Flatpak Installer  Copyright (C) 2024  Elias Feliciano${NC}"
+echo -e "${BLUE}        This program comes with ABSOLUTELY NO WARRANTY; for details go to LICENSE.md.${NC}"
+echo -e "${BLUE}        This is free software, and you are welcome to redistribute it${NC}"
+echo -e "${BLUE}        under certain conditions; go to LICENSE.md for details.${NC}"
+echo ""
+echo ""
+echo ""
+echo ""
+
 
 #Questions for the program to work
 if [[ $LANG = "pt_PT" || $LANG = "pt_PT.UTF-8" || $LANG = "pt_BR" || $LANG = "pt_BR.UTF-8" ]]; then
