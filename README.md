@@ -1,6 +1,9 @@
 # Flatpak Installer
 
-## Warning
+## All contributions are WELCOME :D
+We are needing **Contribuitors** and **Mantainers**
+
+## WARNING
 **The program needs to be executed as root**
 
 ## License
@@ -17,5 +20,8 @@ This project is using the GPL3 (GNU General Public License 3) that is availble o
 
 1. `git clone https://github.com/Lobosro/flatpak_installer.git`
 2. `cd flatpak_installer`
-3. `sudo chmod -x flatpak_installer.sh`
+3. `sudo chmod +x flatpak_installer.sh`
 4. `sudo ./flatpak_installer.sh`
+
+
+Flatpak Installer  Copyright (C) 2024 Elias Feliciano
