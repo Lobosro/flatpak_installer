@@ -3,9 +3,6 @@
 ## All contributions are WELCOME :D
 We are needing **Contribuitors** and **Mantainers**
 
-## WARNING
-**The program needs to be executed as root**
-
 ## License
 This project is using the GPL3 (GNU General Public License 3) that is availble on LICENSE.md
 

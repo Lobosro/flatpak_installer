@@ -46,7 +46,7 @@ if [[ $LANG = "pt_PT" || $LANG = "pt_PT.UTF-8" || $LANG = "pt_BR" || $LANG = "pt
 else
         echo -e "${GREEN}Installing${NC}"
 fi
-flatpak install $rep $package
+sudo flatpak install $rep $package # Flatpak install command
 if [[ $LANG = "pt_PT" || $LANG = "pt_PT.UTF-8" || $LANG = "pt_BR" || $LANG = "pt_BR.UTF-8" ]]; then
         echo -e "${GREEN}Copiando .desktop${NC}"
 else
@@ -55,7 +55,7 @@ fi
 
 #Copying the .desktop of the flatpack from <flatpak_home>/files/share/applications to /usr/share/applications
 if [ -f "$(flatpak info --show-location $package)/files/share/applications/$package.desktop" ]; then
-	cp $(flatpak info --show-location $package)/files/share/applications/$package.desktop /usr/share/applications/$package.desktop
+	sudo cp $(flatpak info --show-location $package)/files/share/applications/$package.desktop /usr/share/applications/$package.desktop
 else
 	if [[ $LANG = "pt_PT" || $LANG = "pt_PT.UTF-8" || $LANG = "pt_BR" || $LANG = "pt_BR.UTF-8" ]]; then
 		echo "${RED}[ERRO] .desktop do Flatpak nao encontrado${NC}"
