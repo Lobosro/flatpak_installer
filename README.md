@@ -1,8 +1,13 @@
-# Flatpak Installer
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-<a href="https://ko-fi.com/lobosro"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></img></a>
-<a href="https://github.com/Lobosro/flatpak_installer"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img></a>
-<a href="mailto: eliaszarrouk@gmail.com"><img alt="Ko-Fi" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<div align="center">
+  <h1>Flatpak Installer</h1>
+</div>
+<div align="center">  
+  
+  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  <a href="https://ko-fi.com/lobosro"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></img></a>
+  <a href="https://github.com/Lobosro/flatpak_installer"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img></a>
+  <a href="mailto: eliaszarrouk@gmail.com"><img alt="Ko-Fi" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+</div>
 
 ## All contributions are WELCOME 😃
 We are needing **Contribuitors** and **Mantainers**
