@@ -9,8 +9,8 @@
   <a href="mailto: eliaszarrouk@gmail.com"><img alt="Ko-Fi" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 </div>
 
-## All contributions are WELCOME 😃
-We are needing **Contribuitors** and **Mantainers**
+## This project is not maintained
+This project is discontinued because it's unecessary just put the flatpack dir in your XDG_DIRS env variable
 
 ## License 🧑‍⚖️
 This project is using the GPL3 (GNU General Public License 3) that is availble on LICENSE.md
